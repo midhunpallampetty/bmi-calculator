@@ -1,3 +1,9 @@
+body{
+  background-image: url('../public/windows-11-logo-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-127@0@h.jpg');
+  background-size: 100%;
+  overflow: hidden;
+
+}
 .App {
   text-align: center;
 }
